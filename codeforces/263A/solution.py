@@ -1,4 +1,4 @@
-n = [list(map(int, input().split())) for t in range(5)]
+n = [list(map(int, input().split())) for _ in range(5)]
 
 x = 0
 y = 0
